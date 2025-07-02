@@ -1,0 +1,9 @@
+# Ignorar archivos y carpetas comunes
+node_modules/
+dist/
+.env
+*.log
+.DS_Store
+Thumbs.db
+# No ignores el README.md
+!README.md
